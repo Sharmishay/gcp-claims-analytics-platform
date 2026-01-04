@@ -65,3 +65,11 @@ and risk identification.
 - Incremental processing and partitioning
 - Metadata lineage and observability
 - CI/CD for DAG and SQL validation
+
+### 6. Visualization Layer
+- Programmatic visual analytics generated using Python
+- Executive-level KPIs including:
+  - Denial rate trends with rolling averages
+  - Cost concentration (Pareto analysis)
+  - High-cost member distribution
+- Visuals designed for leadership reporting, blogs, and presentations
